@@ -1,5 +1,7 @@
 # Bikram | Frontend Developer Portfolio
 
+## Your site is live at https://bikramjitshow.github.io/bikramjit-portfolio/
+
 A production-ready portfolio site reproducing the 9 supplied UI screens
 (Home, About, Skills, Experience, Projects, Project Case Study, Services,
 Contact, Resume), delivered two ways:
