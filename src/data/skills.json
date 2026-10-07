@@ -1,0 +1,42 @@
+{
+  "heading": "Technologies I Work With",
+  "description": "I work with modern technologies and tools to build scalable, performance-driven and user-friendly web applications.",
+  "categories": [
+    {
+      "id": "frontend",
+      "title": "Frontend",
+      "icon": "layout",
+      "items": ["HTML5", "CSS3", "SCSS", "JavaScript", "TypeScript"]
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks & Libraries",
+      "icon": "layers",
+      "items": ["React", "Vue", "Next.js", "Nuxt.js", "Bootstrap", "jQuery", "Redux", "Vuex", "Pinia"]
+    },
+    {
+      "id": "api",
+      "title": "API & Integration",
+      "icon": "plug",
+      "items": ["REST API", "GraphQL", "JSON", "Axios", "Async JS", "Accessibility", "Adobe Analytics"]
+    },
+    {
+      "id": "tools",
+      "title": "Tools & Design",
+      "icon": "tool",
+      "items": ["Figma", "VS Code", "FileZilla", "MS Office"]
+    },
+    {
+      "id": "version-control",
+      "title": "Version Control",
+      "icon": "git",
+      "items": ["Git", "GitHub"]
+    },
+    {
+      "id": "ui-ux",
+      "title": "UI/UX",
+      "icon": "figma",
+      "items": ["Figma", "Adobe XD", "Design Systems"]
+    }
+  ]
+}

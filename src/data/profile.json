@@ -1,0 +1,30 @@
+{
+  "name": "Bikram",
+  "role": "FRONTEND DEVELOPER",
+  "heroTitleLine1": "Crafting High-Performance",
+  "heroTitleLine2": "Digital Experiences",
+  "heroDescription": "I'm a Frontend Developer with 8+ years of experience in building modern, scalable and user-friendly web applications. I specialize in React, Vue, TypeScript and modern frontend architectures.",
+  "heroStack": ["React", "Vue", "Next.js", "TypeScript", "Tailwind"],
+  "heroStats": [
+    { "value": "8+", "label": "Years Experience" },
+    { "value": "20+", "label": "Projects Delivered" },
+    { "value": "100%", "label": "Client Satisfaction" }
+  ],
+  "heroNote": "Turning ideas into fast, accessible and beautiful web experiences.",
+  "aboutHeading": "I'm a Frontend Developer with 8+ Years of Experience",
+  "aboutParagraph1": "I build modern, responsive and accessible web applications using technologies like React, Vue, TypeScript and more.",
+  "aboutParagraph2": "I love turning complex problems into simple, elegant solutions and always strive to create seamless user experiences.",
+  "aboutStats": [
+    { "value": "8+", "label": "Years Experience" },
+    { "value": "20+", "label": "Projects Delivered" },
+    { "value": "Remote", "label": "Work Mode" }
+  ],
+  "philosophy": "Better UI, Better Experiences.",
+  "coreStrengths": [
+    { "title": "Problem Solving", "description": "Build efficient solutions" },
+    { "title": "Clean Code", "description": "Maintainable & scalable" },
+    { "title": "Team Collaboration", "description": "Work well as agile teams" },
+    { "title": "Continuous Learning", "description": "Stay updated with new tech" }
+  ],
+  "avatar": "avatar.jpg"
+}

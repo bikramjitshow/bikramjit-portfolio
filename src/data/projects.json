@@ -1,0 +1,83 @@
+{
+  "heading": "My Recent Work",
+  "description": "Here are some of the projects I've worked on, showcasing my skills in frontend development and UI engineering.",
+  "filters": ["All", "React", "Vue", "Next.js", "Web App"],
+  "items": [
+    {
+      "id": "ecommerce-platform",
+      "title": "E-Commerce Platform",
+      "description": "A modern e-commerce web application with product listing, cart and checkout functionality.",
+      "role": "Frontend Developer",
+      "category": "React",
+      "tags": ["React", "TypeScript", "Redux", "Tailwind", "Axios"],
+      "image": "project-ecommerce.jpg",
+      "duration": "3 months",
+      "liveDemo": "https://ecommerce-demo.com",
+      "overview": "Built a scalable e-commerce platform with product listing, cart, checkout and user authentication. Focused on performance, clean code and responsive design.",
+      "keyFeatures": [
+        "Product catalog & search",
+        "Shopping cart & checkout",
+        "User authentication",
+        "Responsive design"
+      ],
+      "tabs": ["Overview", "Challenges", "Solution", "Development Process", "Results"]
+    },
+    {
+      "id": "task-management-app",
+      "title": "Task Management App",
+      "description": "A productivity tool for managing tasks, projects and teams with real-time sync.",
+      "role": "Frontend Developer",
+      "category": "Vue",
+      "tags": ["Vue", "Pinia", "Vuex", "SCSS"],
+      "image": "project-task.jpg",
+      "duration": "2 months",
+      "liveDemo": "https://taskapp-demo.com",
+      "overview": "A productivity tool for managing tasks, projects and teams with real-time sync and a clean, distraction-free interface.",
+      "keyFeatures": [
+        "Kanban boards",
+        "Team collaboration",
+        "Real-time updates",
+        "Task reminders"
+      ],
+      "tabs": ["Overview", "Challenges", "Solution", "Development Process", "Results"]
+    },
+    {
+      "id": "travel-booking-platform",
+      "title": "Travel Booking Platform",
+      "description": "A responsive travel booking platform with filters and booking flow.",
+      "role": "Frontend Developer",
+      "category": "Next.js",
+      "tags": ["Next.js", "TypeScript", "REST API"],
+      "image": "project-travel.jpg",
+      "duration": "4 months",
+      "liveDemo": "https://travelbooking-demo.com",
+      "overview": "A responsive travel booking platform that lets users search flights and hotels with rich filtering and a streamlined booking flow.",
+      "keyFeatures": [
+        "Flight & hotel search",
+        "Advanced filters",
+        "Booking flow",
+        "Responsive layout"
+      ],
+      "tabs": ["Overview", "Challenges", "Solution", "Development Process", "Results"]
+    },
+    {
+      "id": "analytics-dashboard",
+      "title": "Analytics Dashboard",
+      "description": "Admin dashboard with data visualization and analytics reports.",
+      "role": "Frontend Developer",
+      "category": "Web App",
+      "tags": ["React", "Chart.js", "Antd", "SCSS"],
+      "image": "project-analytics.jpg",
+      "duration": "2 months",
+      "liveDemo": "https://analytics-demo.com",
+      "overview": "An admin dashboard with data visualization widgets and downloadable analytics reports for business teams.",
+      "keyFeatures": [
+        "Interactive charts",
+        "Custom reports",
+        "Role-based access",
+        "Dark mode"
+      ],
+      "tabs": ["Overview", "Challenges", "Solution", "Development Process", "Results"]
+    }
+  ]
+}

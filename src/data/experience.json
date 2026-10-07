@@ -1,0 +1,41 @@
+{
+  "heading": "Professional Journey",
+  "description": "8+ years of experience building modern web applications and leading frontend development initiatives.",
+  "totalExperience": "8+ Years",
+  "timeline": [
+    {
+      "id": "scb",
+      "period": "2021 - Present",
+      "role": "Senior Frontend Developer",
+      "company": "Standard Chartered Bank",
+      "points": [
+        "Developed and maintained customer-facing web applications",
+        "Worked on SCB digital journeys and marketing platforms",
+        "Collaborated with cross-functional teams to deliver high-quality features"
+      ],
+      "tags": ["React", "Vue", "JavaScript", "TypeScript", "SCSS"]
+    },
+    {
+      "id": "abc",
+      "period": "2018 - 2021",
+      "role": "Frontend Developer",
+      "company": "ABC Tech Solutions",
+      "points": [
+        "Built responsive web applications for enterprise clients",
+        "Implemented UI components and REST APIs"
+      ],
+      "tags": ["React", "Vue", "JavaScript", "HTML5", "CSS3"]
+    },
+    {
+      "id": "xyz",
+      "period": "2016 - 2018",
+      "role": "Junior Frontend Developer",
+      "company": "XYZ Digital",
+      "points": [
+        "Developed interactive UI components",
+        "Fixed bugs and improved performance"
+      ],
+      "tags": ["HTML5", "jQuery", "CSS3"]
+    }
+  ]
+}

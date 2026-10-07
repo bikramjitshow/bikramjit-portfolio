@@ -1,0 +1,11 @@
+{
+  "heading": "My Resume",
+  "description": "View my detailed resume with experience, skills, education and certifications.",
+  "pdfUrl": "/resume.pdf",
+  "stats": [
+    { "value": "8+", "label": "Years Experience" },
+    { "value": "20+", "label": "Projects Delivered" }
+  ],
+  "summaryNote": "Building modern web experiences, one line of code at a time.",
+  "sections": ["Experience", "Education", "Certifications"]
+}

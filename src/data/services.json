@@ -1,0 +1,42 @@
+{
+  "heading": "My Services",
+  "description": "I provide end-to-end frontend development services to help businesses build modern, high-performing web applications.",
+  "items": [
+    {
+      "id": "frontend-development",
+      "icon": "code",
+      "title": "Frontend Development",
+      "description": "Modern, scalable and maintainable UI applications."
+    },
+    {
+      "id": "ui-engineering",
+      "icon": "layout",
+      "title": "UI Engineering",
+      "description": "Pixel-perfect and accessible user interfaces."
+    },
+    {
+      "id": "responsive-web-development",
+      "icon": "devices",
+      "title": "Responsive Web Development",
+      "description": "Mobile-first, cross-browser responsive design."
+    },
+    {
+      "id": "api-integration",
+      "icon": "plug",
+      "title": "API Integration",
+      "description": "REST & GraphQL integration with seamless data flow."
+    },
+    {
+      "id": "performance-optimization",
+      "icon": "speed",
+      "title": "Performance Optimization",
+      "description": "Faster load times & better user experience."
+    },
+    {
+      "id": "website-modernization",
+      "icon": "upgrade",
+      "title": "Website Modernization",
+      "description": "Upgrade legacy systems to modern tech."
+    }
+  ]
+}
